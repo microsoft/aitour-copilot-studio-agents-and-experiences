@@ -1,4 +1,4 @@
-# [Build agents and extend copilot experiences with Copilot Studio]
+# Build agents and extend copilot experiences with Copilot Studio
 
 This repo contains the train the trainer material for the Build agents and extend copilot experiences with Copilot Studio breakout session for AI Tour.
 
