@@ -1,6 +1,6 @@
 # Build agents and extend copilot experiences with Copilot Studio
 
-This repo contains the train the trainer material for the Build agents and extend copilot experiences with Copilot Studio breakout session for AI Tour.
+This repo contains the session delivery material for the Build agents and extend copilot experiences with Copilot Studio breakout session for AI Tour.
 
 ![Workshop Title](/src/brktitle.png)
 
@@ -20,7 +20,7 @@ This is a 45-minute session focused on building and extending custom copilots an
 - Copilot Studio
 
 ## Additional Resources
-You can find additional resources, including the slides for the presentation and train the trainer material [here](/train-the-trainer/README.md).
+You can find additional resources, including the slides for the presentation and session delivery material [here](/session-delivery-resources/README.md).
 
 ## Content Owners
 

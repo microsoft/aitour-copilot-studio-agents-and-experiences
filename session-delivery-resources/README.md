@@ -1,8 +1,7 @@
 ## How To Use
 
-Welcome,
-
-We're glad you are here and look forward to your delivery of the Build agents and extend copilot experiences with Copilot Studio session. This guide focuses on what you need to present for a successful delivery of this session.  
+The following resources are intended for a presenter to learn and deliver the Build agents and extend copilot experiences with Copilot Studio session
+ 
 
 Prior to delivering the session please:
 
@@ -15,9 +14,9 @@ Prior to delivering the session please:
 
 | Resources          | Links                            | Description |
 |-------------------|----------------------------------|-------------------|
-| Session Slide Deck      |  [Presentation](https://aka.ms/AArxldr) | Presentation slides for this session with presenter notes and embedded demo videos |
-| Train the Trainer Video           | [Video](https://aka.ms/AArxxbo) | Recorded delivery of the train the trainer slides | 
-| Trainer Guide             |  [Trainer Guide](https://aka.ms/AArxxc4) | Trainer guide with demo setup and talk track | 
+| Session Slide Deck      |  [Presentation](https://aka.ms/AArxldr) | Presentation slides with speaker notes |
+| Session Delivery Video           | [Video](https://aka.ms/AArxxbo) | Recorded video explaining how to deliver this session | 
+| Session Delivery Guide             |  [Guide](https://aka.ms/AArxxc4) | Guide explaining how to deliver this session with demo setup and talk track. | 
 
 ## Get Started
 
@@ -48,6 +47,6 @@ You will need access to your own M365 tenant to do the demos. You will also need
 
 > **What's Here?** Pre-delivery preparation, stage ready videos
 
-There are 4 total demos (3 live and 1 pre-recorded). There is a backup recording of the demos in the slide deck to use in emergencies if you have connection issues. [You can find the demo script in the trainer guide](https://aka.ms/AArxxc4).
+There are 4 total demos (3 live and 1 pre-recorded). There is a backup recording of the demos in the slide deck to use in emergencies if you have connection issues. [You can find the demo script in the session delivery guide](https://aka.ms/AArxxc4).
 
 
